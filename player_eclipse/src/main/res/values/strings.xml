@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LFVideoPlayer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="recomm_prefecture_video_erro">视频播放错误，请重试!</string>
+</resources>
